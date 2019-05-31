@@ -1,6 +1,6 @@
 # Software Engineering Markdown Templates
 
-This folder contains markdown template for a Requirements Analysis Document and System Design Document. There are two versions of the templates, there is a single-file and a folder tree with one file per section. It is recommended to use the folder tree because large markdown files will start to make fast computers clunk and the graphics will skip frames, and it also helps put blinders on so you can focus on work. Visual Studio Code works very well with the Folder tree structure.
+This folder contains markdown template for a Requirements Analysis Document and System Design Document. There are two versions of the templates, there is a single-file and a folder tree with one file per section. It is recommended to use the folder tree because large markdown files will start to make fast computers skip frames, and it also helps put blinders on so you can focus on one section at a time. Visual Studio Code works very well with the Folder tree structure.
 
 ## Requirements Analysis Document
 
