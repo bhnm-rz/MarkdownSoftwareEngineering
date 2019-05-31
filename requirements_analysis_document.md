@@ -119,6 +119,8 @@ This is a markdown template for creating engineered software analysis. Note that
 
 ## 4 Glossary
 
+---
+
 ## 5 The License
 
 Copyright 2019 (C) Your Name <<your.email@address.com>>, the IP Owner; all rights reserved (R).

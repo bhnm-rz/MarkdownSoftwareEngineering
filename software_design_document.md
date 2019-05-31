@@ -44,9 +44,15 @@ The purpose of the system is...
 
 ### 1.5 Overview
 
+---
+
 ## 2. Current Software Architecture
 
+---
+
 ## 3. Proposed software architecture
+
+---
 
 ### 3.1 Overview
 
@@ -64,7 +70,11 @@ The purpose of the system is...
 
 ## 4 Subsystem Services
 
+---
+
 ## 5 Glossary
+
+---
 
 ## 6 The License
 
