@@ -14,7 +14,7 @@ This folder contains markdown template for a Requirements Analysis Document and 
 
 ## The License
 
-***This template is not copyrighted, this is just an example license. Use a semicolon to separate author names.***
+***This template is not copyrighted, this is just an example license.***
 
 Copyright 2019 (C) Your Name <<your.email@address.com>>, the IP Owner; all rights reserved (R).
 
