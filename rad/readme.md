@@ -3,11 +3,11 @@
 ***Content Table***
 
 1. [Introduction](./introduction/readme.md)
-   2. [System Purpose](./introduction/system_purpose.md)
-   3. [System](./introduction/system_scope.md)
-   4. [Mission and Vision](./introduction/mission_and_vision.md)
-   5. [External Definitions](./introduction/external_definitions.md)
-   6. [References](./introduction/references.md)
+   1. [System Purpose](./introduction/system_purpose.md)
+   2. [System](./introduction/system_scope.md)
+   3. [Mission and Vision](./introduction/mission_and_vision.md)
+   4. [External Definitions](./introduction/external_definitions.md)
+   5. [References](./introduction/references.md)
 2. [Current System](./current_system/readme.md)
 3. [Proposed System](./proposed_system/readme.md)
    1. [Overview](./proposed_system/overview.md)
