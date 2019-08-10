@@ -1,6 +1,6 @@
 # Software Engineering Markdown Templates
 
-This folder contains markdown templates for a Requirements Analysis Document and System Design Document as well as standard Markdown files for GitHub projects. There are two versions of the RAD and SDD templates, there is a single-file and a folder tree with one file per section. It is recommended to use the folder tree because large markdown files will start to make fast computers skip frames, and it also helps put blinders on so you can focus on one section at a time. Visual Studio Code works very well with the Folder tree structure.
+This folder contains markdown templates for a Requirements Analysis Document and System Design Document as well as standard Markdown templates for GitHub projects. There are two versions of the RAD and SDD templates, there is a single-file and a folder tree with one file per section. It is recommended to use the folder tree because large markdown files will start to make fast computers skip frames, and it also helps put blinders on so you can focus on one section at a time. Visual Studio Code works very well with the Folder tree structure.
 
 ## Requirements Analysis Document
 
@@ -14,15 +14,15 @@ This folder contains markdown templates for a Requirements Analysis Document and
 
 ## GitHub Documents
 
-* [BUG_REPORT_TEMPLATE.md](./docs/BUG_REPORT_TEMPLATE.md)
+* [bug_report_template.md](./docs/bug_report_template.md)
 * [change_control_procedure.md](./docs/change_control_procedure.md)
-* [CODE_OF_CONDUCT.md](./docs/CODE_OF_CONDUCT.md)
-* [CONTRIBUTING.md](./docs/CONTRIBUTING.md)
-* [FEATURE_REQUEST_TEMPLATE.md](./docs/FEATURE_REQUEST_TEMPLATE.md)
+* [code_of_conduct.md](./docs/code_of_conduct.md)
+* [contributing.md](./docs/contributing.md)
+* [feature_request_template.md](./docs/feature_request_template.md)
 * [issue_template.md](./docs/issue_template.md)
-* [PULL_REQUEST_TEMPLATE.md](./docs/PULL_REQUEST_TEMPLATE.md)
-* [ROADMAP.md](./docs/ROADMAP.md)
-* [standard_secure_coding.md](./docs/standard_secure_coding.md)
+* [pull_request_template.md](./docs/pull_request_template.md)
+* [roadmap.md](./docs/roadmap.md)
+* [standards_for_secure_coding.md](./docs/standards_for_secure_coding.md)
 
 ## The License
 
