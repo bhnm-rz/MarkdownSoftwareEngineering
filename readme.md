@@ -14,7 +14,7 @@ This folder contains markdown templates for a Requirements Analysis Document and
    * [contributing.md](./docs/contributing.md)
    * [feature_request_template.md](./docs/feature_request_template.md)
    * [issue_template.md](./docs/issue_template.md)
-   * [mission_and_vision.md]()./docs/mission_and_vision.md)
+   * [mission_and_vision.md](./docs/mission_and_vision.md)
    * [pull_request_template.md](./docs/pull_request_template.md)
    * [roadmap.md](./docs/roadmap.md)
 
