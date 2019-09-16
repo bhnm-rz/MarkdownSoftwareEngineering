@@ -1,6 +1,4 @@
-# [Software Engineering Markdown Templates](../README.md)
-
-## Change Control Procedure
+# Change Control Procedure
 
 The Change control procedure ensures that train wrecks don't happen when Major or Minor changes are made to the code base. The extra steps required to implement the procedure are in your best interests to comply with because they were invented because of some really painful and embarrassing train wrecks.
 

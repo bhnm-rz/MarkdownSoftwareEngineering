@@ -21,7 +21,7 @@
 4. [Subsystem Services](#4-subsystem-services)
 5. [Glossary](#5-glossary)
 
-## The License
+## License
 
 ***This template is not copyrighted, this is just an example license. Use a semicolon to separate author names.***
 

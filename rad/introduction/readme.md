@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-## The License
+## License
 
 Copyright 2019 (C) Your Name <<https://your-github-page.github.io>>, the IP Owner; all rights reserved (R).
 
