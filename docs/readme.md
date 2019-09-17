@@ -1,8 +1,8 @@
 # [Markdown Software Engineering](https://github.com/kabuki-starship/markdown.software_engineering)
 
-## GitHub Templates
+## GitHub Markdown Templates
 
-This repository contains standard GitHub markdown templates that can help improve your project's productivity using Issue-driven development (IDD). Our templates are a bit different than others, in that we have repurposed the Code of Conduct to link to coding standards to allow the standards to be kept up to date without you having to pull the files, but this comes with the requirement that you check for updates periodically.
+This repository contains standard GitHub markdown templates that can help improve your project's productivity using Issue-driven development (IDD) and I am You Language (IMUL). Our templates are a bit different than others, in that we have repurposed the Code of Conduct to link to coding standards to allow the standards to be kept up to date without you having to pull the files, but this comes with the requirement that you check for updates periodically. IMUL is also a very powerful language for creating issue tickets because it is designed to help you create institutionalized knowledge using an Issue tracking system and keeps you and your team focused and all digging the same direction.
 
 ### Documents
 
@@ -23,6 +23,6 @@ This repository contains standard GitHub markdown templates that can help improv
 git clone https://github.com/kabuki-starship/markdown.github_docs.git
 ```
 
-**2.** Check out the [Kabuki Toolkit Cookbook chapter on Issue-driven Development](https://github.com/kabuki-starship/kabuki.toolkit.cookbook/tree/master/idd) to learn how the issue tickets work.
+**2.** Check out the [Kabuki Toolkit Cookbook chapter on Issue-driven Development](https://github.com/kabuki-starship/kabuki.toolkit.cookbook/tree/master/idd) to learn how I am You Language (IMUL) issue tickets work.
 
 **3.** If you're going to edit the templates or this file, delete the `.git` folder.

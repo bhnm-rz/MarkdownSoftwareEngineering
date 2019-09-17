@@ -1,12 +1,12 @@
 # Markdown Software Engineering
 
-This folder contains standards and templates for software engineering written in Markdown. The Requirements Analysis Document and Software Design Documents are stored in a tree structure because many MarkDown renderers will chunk on you when you edit large documents, it helps block out distractions, and it's more programmer-friendly.
+This folder contains standard templates for software engineering written in Markdown. The Requirements Analysis Document and Software Design Documents are stored in a KabukiPress tree structure because it speeds up Markdown rendering, it helps block out distractions, and it's more programmer-friendly.
 
-## Documents
+## Document Templates
 
 * [Requirements Analysis Document Template](./rad/readme.md)
 * [Software Design Document Template](./sdd/readme.md)
-* [GitHub Templates](./docs/readme.md)
+* [GitHub Docs](./docs/readme.md)
   * [bug_report_template.md](./docs/bug_report_template.md)
   * [code_of_conduct.md](./docs/code_of_conduct.md)
   * [contributing.md](./docs/contributing.md)
@@ -22,7 +22,18 @@ This folder contains standards and templates for software engineering written in
 
 ## Mission and Vision
 
-The mission of Markdown Software Engineering is to help you start out or get your project onto the right foot and increase productivity. Our vision is to automate as much documentation as possible with [KabukiPress](https://github.com/kabuki-starship/kabukipress).
+The mission of Markdown Software Engineering is to help you start out or get your project onto the right foot and increase productivity with Don't Repeat Yourself (DRY) documentation. Our vision is to automate as much documentation as possible with [KabukiPress](https://github.com/kabuki-starship/kabukipress).
+
+## MVP RoadMap
+
+We can achieve a Minimum Viable Product by completing the following project phases:
+
+1. Foo.
+1. Bar.
+
+This is a good idea because foo and bar are both common names for abstract functions.
+
+***When you're first starting out your project, your roadmap should be here in the root `readme.md` file because people have very low tolerance for non-working code, they will just move on in search of the easy thing and you can't blame them, so if you're trying to woo contributors, you must do it with your Mission and vision, then immediately after show the action plan that someone else things is a good idea achievable, and worth their time to contribute too.***
 
 ## Quickstart Guide
 
@@ -42,7 +53,7 @@ git clone --recursive https://github.com/kabuki-starship/markdown.software_engin
 
 **6.** To upload the files to the web, just upload them to your GitHub repo.
 
-**7.** This step isn't working yet but we're seeking contributors. If you would like to create a statically generated website from the Markdown files, check out [KabukiPress](https://github.com/kabuki-starship/kabukipress).
+**7.** If you would like to create a statically generated website from the Markdown files, check out [KabukiPress](https://github.com/kabuki-starship/kabukipress). We are seeking Modern Embedded-C++ code contributors.
 
 ## License
 
