@@ -4,7 +4,7 @@
 
 ### [Nonfunctional Requirements](./readme.md)
 
-### Useability
+### Usability
 
 ## License
 

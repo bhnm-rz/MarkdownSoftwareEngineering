@@ -13,7 +13,7 @@
    1. [Overview](./proposed_system/overview.md)
    2. [Functional Requirements](./proposed_system/functional-requirements.md)
    3. [Nonfunctional Requirements](./proposed_system/nonfunctional_requirements/readme.md)
-      1. [Usability](./proposed_system/nonfunctional_requirements/usability.md)
+      1. [Usability](./proposed_system/nonfunctional_requirements/Usability.md)
       2. [Reliability](./proposed_system/nonfunctional_requirements/reliability.md)
       3. [Performance](./proposed_system/nonfunctional_requirements/performance.md)
       4. [Supportability](./proposed_system/nonfunctional_requirements/supportability.md)
