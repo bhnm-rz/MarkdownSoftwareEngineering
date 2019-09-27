@@ -22,17 +22,15 @@ This folder contains standard templates for software engineering written in Mark
 
 ## Organization
 
- There are different Markdown templates for different tasks:
+ The directions for how to use the templates are stored in the [Astartup Cookbook Documentation chapter](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates.md). There are different Markdown templates for different tasks:
 
 * Markdown Software Engineering
 * [Markdown Game Design](https://github.com/kabuki-starship/markdown.game_dev)
 * [Markdown Cookbook](https://github.com/kabuki-starship/markdown.cookbook)
 
- Each template shares the same GitHub markdown templates using the [docs repo](https://github.com/kabuki-starship/docs).
-
 ## Mission and Vision
 
-The mission of Markdown Software Engineering is to help you start out or get your project onto the right foot and increase productivity with Don't Repeat Yourself (DRY) documentation. Our vision is to automate as much documentation as possible with [KabukiPress](https://github.com/kabuki-starship/kabukipress).
+The mission of Markdown Software Engineering is to help you start out or get your project onto the right foot and increase productivity with Don't Repeat Yourself (DRY) documentation. Our vision is to automate as much documentation as possible with [KabukiPress](https://github.com/kabuki-starship/kabuki.press).
 
 ## MVP RoadMap
 
@@ -47,10 +45,10 @@ This is a good idea because foo and bar are both common names for abstract funct
 
 ## Quickstart Guide
 
-**1.** Clone the repo recursively or else you don't get the `/docs` folder.
+**1.** Clone the repo:
 
 ```BASH
-git clone --recursive https://github.com/kabuki-starship/markdown.software_engineering.git
+git clone https://github.com/kabuki-starship/markdown.software_engineering.git
 ```
 
 **2.** Copy the documents you want into your repo, but do not copy the .git folder because it will mess up the GitHub templates.
