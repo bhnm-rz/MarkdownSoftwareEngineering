@@ -2,7 +2,15 @@
 
 This folder contains standard templates for software engineering written in Markdown. The Requirements Analysis Document and Software Design Documents are stored in a KabukiPress tree structure because it speeds up Markdown rendering, it helps block out distractions, and it's more programmer-friendly.
 
-## Document Templates
+## Organization
+
+ The directions for how to use the templates are stored in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md). There are different Markdown templates for different tasks:
+
+* Markdown Software Engineering
+* [Markdown Game Design](https://github.com/kabuki-starship/markdown.game_dev)
+* [Markdown Cookbook](https://github.com/kabuki-starship/markdown.cookbook)
+
+### Document Templates
 
 * [Requirements Analysis Document Template](./rad/readme.md)
 * [Software Design Document Template](./sdd/readme.md)
@@ -19,14 +27,6 @@ This folder contains standard templates for software engineering written in Mark
   * [change_control_procedure.md](./standards/change_control_procedure.md)
   * [code_of_conduct.md](./standards/code_of_conduct.md)
   * [secure_coding.md](./standards/secure_coding.md)
-
-## Organization
-
- The directions for how to use the templates are stored in the [Astartup Cookbook Documentation chapter](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md). There are different Markdown templates for different tasks:
-
-* Markdown Software Engineering
-* [Markdown Game Design](https://github.com/kabuki-starship/markdown.game_dev)
-* [Markdown Cookbook](https://github.com/kabuki-starship/markdown.cookbook)
 
 ## Mission and Vision
 
