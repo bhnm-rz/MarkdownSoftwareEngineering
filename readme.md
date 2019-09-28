@@ -4,7 +4,7 @@ This folder contains standard templates for software engineering written in Mark
 
 ## Organization
 
- The directions for how to use the templates are stored in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md). There are different Markdown templates for different tasks:
+ The directions for how to use the templates are stored in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/getting_started/markdown/readme.md). There are different Markdown templates for different tasks:
 
 * Markdown Software Engineering
 * [Markdown Game Design](https://github.com/kabuki-starship/markdown.game_dev)
