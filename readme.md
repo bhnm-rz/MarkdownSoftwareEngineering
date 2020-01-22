@@ -4,7 +4,7 @@ This folder contains standard templates for software engineering written in Mark
 
 ## Organization
 
- The directions for how to use the templates are stored in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/tree/master/getting_started/markdown). There are different Markdown templates for different tasks:
+ The directions for how to use the templates are stored in the [Astartup™ Cookbook](https://github.com/kabuki-starship/Astartup™.cookbook/tree/master/getting_started/markdown). There are different Markdown templates for different tasks:
 
 * Markdown Software Engineering
 * [Markdown Game Design](https://github.com/kabuki-starship/markdown.game_dev)
@@ -67,6 +67,6 @@ git clone https://github.com/kabuki-starship/markdown.software_engineering.git
 
 ***This template is not copyrighted. We're assuming you're making a commercial application so this is just an example strong closed-source license. If you are trying to create a source available license, which is the strongest open-source license, replace the license paragraph with "You must consult your personal license for permissions and restrictions."***
 
-Copyright 2019 (C) Your Name <<https://your-github-page.github.io>>, the IP Owner; all rights reserved (R).
+Copyright 2019 © Your Name <<https://your-github-page.github.io>>, the IP Owner; all rights reserved.
 
 This file and the folder and repository it is contained in are private and contain intellectual property, trade secrets, copyrighted material, and other protected works, the IP, that are the property of the IP Owner. You must get explicit permission from the IP Owner to possess, view, modify, share, duplicate, discuss, or publicly display the IP.
